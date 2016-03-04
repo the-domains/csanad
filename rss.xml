@@ -4,11 +4,18 @@
         <description><![CDATA[Test page]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 22:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 22:04:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Végy 5-öt]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FzFk-kiDW_tA%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzFk-kiDW_tA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FzFk-kiDW_tA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"></iframe>]]></description>
+            <link>https://thegrid.ai/csanad/vegy-5-ot/index.html</link>
+            <guid isPermaLink="false">5ce9af63-02cc-4697-bb93-abe15b8d0193</guid>
+            <pubDate>Fri, 04 Mar 2016 22:03:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Imdb weboldal]]></title>
-            <description><![CDATA[<article><h1>Imdb weboldal</h1><img src="http://ia.media-imdb.com/images/M/MV5BNDUzNjYwNDYyNl5BMl5BanBnXkFtZTcwNjU3ODQ0MQ@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Imdb weboldal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a26703404dc8e4b34aa8307c97148bb422a7c727.jpg"></article>]]></description>
             <link>http://m.imdb.com/title/tt0405094/fullcredits/cast?ref_=m_tt_cl_sc</link>
             <guid isPermaLink="false">35710836-4723-4f5e-8002-42107cbfd5e8</guid>
             <pubDate>Fri, 04 Mar 2016 22:03:22 GMT</pubDate>
