@@ -1,6 +1,6 @@
 name: Test page
 favicon: null
-layout_spectrum: 0.23003
+layout_spectrum: 0.40673
 typography_spectrum: 0.17248
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#5589b8'
     - '#94c9e9'
     - '#fa522d'
-  brandStrength: 0.5625
+  brandStrength: 0.0625
   lightness: 0.875
   saturation: 0.875
   rhythmicContrast: 0.25
