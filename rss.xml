@@ -4,8 +4,15 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 19:40:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/363da27a-31ac-44ae-9e38-b4275546b0b9.jpg">]]></description>
+            <link>https://thegrid.ai/csanad/9e52bd0f-ad8b-4751-95d2-5fcfc07ab681/index.html</link>
+            <guid isPermaLink="false">9e52bd0f-ad8b-4751-95d2-5fcfc07ab681</guid>
+            <pubDate>Sat, 05 Mar 2016 19:39:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/067c04f7-83cd-48e6-ad9b-4f39f412d1bb.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/csanad/93306763-29ca-407a-a624-e9c66f8aa3f3/index.html</link>
             <guid isPermaLink="false">93306763-29ca-407a-a624-e9c66f8aa3f3</guid>
             <pubDate>Fri, 04 Mar 2016 21:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ced4ea4c-bc2c-4565-87d2-a82ea616f96e.jpg">]]></description>
-            <link>https://thegrid.ai/csanad/d23b4518-9e19-4efe-9aac-df9eb4c6f75f/index.html</link>
-            <guid isPermaLink="false">d23b4518-9e19-4efe-9aac-df9eb4c6f75f</guid>
-            <pubDate>Fri, 04 Mar 2016 21:04:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
