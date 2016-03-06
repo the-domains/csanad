@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 13:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 13:47:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.bukfurdo.hu/</link>
             <guid isPermaLink="false">30d04e8d-94be-4b7c-8d4d-60fcbec068e3</guid>
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/716029f1-582b-4952-9f66-54236c94a803.jpg">]]></description>
+            <link>https://thegrid.ai/csanad/ab32d388-5ed1-478e-adc7-9c491dbf9632/index.html</link>
+            <guid isPermaLink="false">ab32d388-5ed1-478e-adc7-9c491dbf9632</guid>
+            <pubDate>Sun, 06 Mar 2016 13:46:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/csanad/belul/index.html</link>
             <guid isPermaLink="false">c020b88b-dd0c-4b9e-92f6-a00e596dcef1</guid>
             <pubDate>Sat, 05 Mar 2016 18:47:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Végy 5-öt]]></title>
-            <description><![CDATA[<article><h1>Végy 5-öt</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fdf9edc6d0c454e12f141901bac8fcd4a3c64b8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/csanad/vegy-5-ot/index.html</link>
-            <guid isPermaLink="false">5ce9af63-02cc-4697-bb93-abe15b8d0193</guid>
-            <pubDate>Fri, 04 Mar 2016 22:03:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
