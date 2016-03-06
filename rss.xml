@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 12:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 13:47:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.bukfurdo.hu/</link>
             <guid isPermaLink="false">30d04e8d-94be-4b7c-8d4d-60fcbec068e3</guid>
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4011e8ae-a8f8-4ad9-8549-a0eef46c983f.jpg">]]></description>
+            <link>https://thegrid.ai/csanad/bc69ff40-f832-48c6-abe3-95dc4f645e17/index.html</link>
+            <guid isPermaLink="false">bc69ff40-f832-48c6-abe3-95dc4f645e17</guid>
+            <pubDate>Sun, 06 Mar 2016 13:46:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Végy 5-öt</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fdf9edc6d0c454e12f141901bac8fcd4a3c64b8.jpg"></article>]]></description>
             <link>https://thegrid.ai/csanad/vegy-5-ot/index.html</link>
             <guid isPermaLink="false">5ce9af63-02cc-4697-bb93-abe15b8d0193</guid>
-            <pubDate>Fri, 04 Mar 2016 22:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Imdb weboldal]]></title>
-            <description><![CDATA[<article><h1>Imdb weboldal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a26703404dc8e4b34aa8307c97148bb422a7c727.jpg"></article>]]></description>
-            <link>http://m.imdb.com/title/tt0405094/fullcredits/cast?ref_=m_tt_cl_sc</link>
-            <guid isPermaLink="false">35710836-4723-4f5e-8002-42107cbfd5e8</guid>
             <pubDate>Fri, 04 Mar 2016 22:03:22 GMT</pubDate>
         </item>
     </channel>
