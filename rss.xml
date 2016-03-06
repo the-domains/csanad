@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 12:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 12:39:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.bukfurdo.hu/</link>
             <guid isPermaLink="false">30d04e8d-94be-4b7c-8d4d-60fcbec068e3</guid>
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54e273c2-b740-4ea9-bd88-11441eaf9083.jpg">]]></description>
+            <link>https://thegrid.ai/csanad/dc2d5004-ad9e-46e6-a2ce-6a8f26b096c5/index.html</link>
+            <guid isPermaLink="false">dc2d5004-ad9e-46e6-a2ce-6a8f26b096c5</guid>
+            <pubDate>Sun, 06 Mar 2016 12:38:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.imdb.com/title/tt0405094/fullcredits/cast?ref_=m_tt_cl_sc</link>
             <guid isPermaLink="false">35710836-4723-4f5e-8002-42107cbfd5e8</guid>
             <pubDate>Fri, 04 Mar 2016 22:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52b580db-e8fa-41af-a389-b874d8e58d17.jpg">]]></description>
-            <link>https://thegrid.ai/csanad/d13f5152-1332-41fa-868f-58f520e5845b/index.html</link>
-            <guid isPermaLink="false">d13f5152-1332-41fa-868f-58f520e5845b</guid>
-            <pubDate>Fri, 04 Mar 2016 21:15:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
