@@ -7,8 +7,8 @@ inLanguage: hu
 starred: false
 keywords: []
 description: 'Van egy csodálatos hely Nyugat-Dunántúlon, ahol minden korosztályt tökéletes kikapcsolódás vár. Bük óriási gazdagságra lelt, amikor határában meleg vizet találtak. 1965-ben gyógyvízzé minősítették az egyedi összetételű, több mint 15.000 mg/l ásványianyag-tartalmú termálvizet, és a medencék, később a fedett fürdő építésével, majd további fejlesztésekkel Bükfürdő fokozatosan Európa-szerte ismert gyógyfürdő és gyógyhely lett.'
-datePublished: '2016-03-07T22:19:10.047Z'
-dateModified: '2016-03-07T09:35:32.789Z'
+datePublished: '2016-03-07T22:21:31.239Z'
+dateModified: '2016-03-07T22:19:18.032Z'
 author: []
 related: []
 app_links: []
