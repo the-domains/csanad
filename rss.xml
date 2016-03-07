@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 21:53:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.bukfurdo.hu/</link>
             <guid isPermaLink="false">30d04e8d-94be-4b7c-8d4d-60fcbec068e3</guid>
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Filmzene]]></title>
+            <description><![CDATA[<article><h1>Filmzene</h1><p>Anima Sound System: Crossroads (Official Video) Written and Produced by Gergely Németh and Zsolt Prieger Mastering: Gábor Deutsch (Anorganik) The Video Directed by: Loránd Balázs Imre Cinematography and Editing by: Csaba Hernáth Produced by: László Józsa Speak Easy Project 2014 Lyrics: get up early morning get home in the evening</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4f6a99b38288de6d5256c6993add8211dd45467.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=I4bOuWpCoYc</link>
+            <guid isPermaLink="false">fa2a0e52-ba10-4711-9d42-5528e3e48a5a</guid>
+            <pubDate>Mon, 07 Mar 2016 21:53:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Négy]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/csanad/2799e7a1-37d2-45e3-a1f7-baa9f055f2df/index.html</link>
             <guid isPermaLink="false">2799e7a1-37d2-45e3-a1f7-baa9f055f2df</guid>
             <pubDate>Sat, 05 Mar 2016 21:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f1534b4-5dd9-4f95-bfef-0290b5fcafa3.jpg">]]></description>
-            <link>https://thegrid.ai/csanad/5504c36e-afef-4bdb-b076-65747c27ec8d/index.html</link>
-            <guid isPermaLink="false">5504c36e-afef-4bdb-b076-65747c27ec8d</guid>
-            <pubDate>Sun, 06 Mar 2016 09:44:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
