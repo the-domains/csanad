@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 22:01:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.bukfurdo.hu/</link>
             <guid isPermaLink="false">30d04e8d-94be-4b7c-8d4d-60fcbec068e3</guid>
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/067c04f7-83cd-48e6-ad9b-4f39f412d1bb.jpg">]]></description>
+            <link>https://thegrid.ai/csanad/facefc6e-f4d4-4828-bbfa-d62db7a483e8/index.html</link>
+            <guid isPermaLink="false">facefc6e-f4d4-4828-bbfa-d62db7a483e8</guid>
+            <pubDate>Mon, 07 Mar 2016 22:00:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/csanad/bc69ff40-f832-48c6-abe3-95dc4f645e17/index.html</link>
             <guid isPermaLink="false">bc69ff40-f832-48c6-abe3-95dc4f645e17</guid>
             <pubDate>Sun, 06 Mar 2016 13:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54e273c2-b740-4ea9-bd88-11441eaf9083.jpg">]]></description>
-            <link>https://thegrid.ai/csanad/dc2d5004-ad9e-46e6-a2ce-6a8f26b096c5/index.html</link>
-            <guid isPermaLink="false">dc2d5004-ad9e-46e6-a2ce-6a8f26b096c5</guid>
-            <pubDate>Sun, 06 Mar 2016 12:38:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
