@@ -4,8 +4,15 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 22:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 22:21:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0955a18-4a7b-4596-9d94-dfd78294ea05.jpg">]]></description>
+            <link>https://thegrid.ai/csanad/1e1d4ac5-9278-48dd-b493-922ea829febb/index.html</link>
+            <guid isPermaLink="false">1e1d4ac5-9278-48dd-b493-922ea829febb</guid>
+            <pubDate>Mon, 07 Mar 2016 22:20:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
             <description><![CDATA[<article><h1>Bükfürdői ajjajjaj</h1><p>Van egy csodálatos hely Nyugat-Dunántúlon, ahol minden korosztályt tökéletes kikapcsolódás vár. Bük óriási gazdagságra lelt, amikor határában meleg vizet találtak. 1965-ben gyógyvízzé minősítették az egyedi összetételű, több mint 15.000 mg/l ásványianyag-tartalmú termálvizet, és a medencék, később a fedett fürdő építésével, majd további fejlesztésekkel Bükfürdő fokozatosan Európa-szerte ismert gyógyfürdő és gyógyhely lett.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e58fc66274110baac312fd153fa411b796bf608.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Forgó</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c72a0b339633a69222a2b31bd128febfeb5a3a2.png"></article>]]></description>
             <link>https://thegrid.ai/csanad/forgo/index.html</link>
             <guid isPermaLink="false">854b1d9e-90c0-4ec4-b49d-449493312502</guid>
-            <pubDate>Mon, 07 Mar 2016 09:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Akikék és mégis majom]]></title>
-            <description><![CDATA[<article><h1>Akikék és mégis majom</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8424328b205ef012055f7502afb317a72b790c09.png"></article>]]></description>
-            <link>https://thegrid.ai/csanad/akikek-es-megis-majom/index.html</link>
-            <guid isPermaLink="false">f704943f-2f5d-40b0-8be8-0ad8dbe1bb56</guid>
             <pubDate>Mon, 07 Mar 2016 09:16:33 GMT</pubDate>
         </item>
     </channel>
