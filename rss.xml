@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 09:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 09:18:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.bukfurdo.hu/</link>
             <guid isPermaLink="false">30d04e8d-94be-4b7c-8d4d-60fcbec068e3</guid>
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forgó]]></title>
+            <description><![CDATA[<article><h1>Forgó</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1314054-0fe7-4b21-b203-671e5d377e37.png"></article>]]></description>
+            <link>https://thegrid.ai/csanad/forgo/index.html</link>
+            <guid isPermaLink="false">854b1d9e-90c0-4ec4-b49d-449493312502</guid>
+            <pubDate>Mon, 07 Mar 2016 09:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Akikék és mégis majom]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/csanad/facefc6e-f4d4-4828-bbfa-d62db7a483e8/index.html</link>
             <guid isPermaLink="false">facefc6e-f4d4-4828-bbfa-d62db7a483e8</guid>
             <pubDate>Sat, 05 Mar 2016 19:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3496ff2c-3a54-4b4b-a960-e5a46cd54604.jpg">]]></description>
-            <link>https://thegrid.ai/csanad/f8202f67-316e-459d-be0f-0e6b26062db8/index.html</link>
-            <guid isPermaLink="false">f8202f67-316e-459d-be0f-0e6b26062db8</guid>
-            <pubDate>Sat, 05 Mar 2016 19:34:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
