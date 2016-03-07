@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.bukfurdo.hu/'
 inLanguage: hu
-starred: true
+starred: false
 keywords: []
 description: 'Van egy csodálatos hely Nyugat-Dunántúlon, ahol minden korosztályt tökéletes kikapcsolódás vár. Bük óriási gazdagságra lelt, amikor határában meleg vizet találtak. 1965-ben gyógyvízzé minősítették az egyedi összetételű, több mint 15.000 mg/l ásványianyag-tartalmú termálvizet, és a medencék, később a fedett fürdő építésével, majd további fejlesztésekkel Bükfürdő fokozatosan Európa-szerte ismert gyógyfürdő és gyógyhely lett.'
-datePublished: '2016-03-06T12:31:01.821Z'
-dateModified: '2016-03-06T12:31:01.221Z'
+datePublished: '2016-03-07T22:19:10.047Z'
+dateModified: '2016-03-07T09:35:32.789Z'
 author: []
 related: []
 app_links: []
