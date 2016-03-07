@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 22:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 22:12:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.bukfurdo.hu/</link>
             <guid isPermaLink="false">30d04e8d-94be-4b7c-8d4d-60fcbec068e3</guid>
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9faf3040-686a-405a-ab0d-69dd4c5f7e7c.jpg">]]></description>
+            <link>https://thegrid.ai/csanad/f3ff2052-ee65-42e3-a92e-8f11d7e666da/index.html</link>
+            <guid isPermaLink="false">f3ff2052-ee65-42e3-a92e-8f11d7e666da</guid>
+            <pubDate>Mon, 07 Mar 2016 22:11:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Akikék és mégis majom</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8424328b205ef012055f7502afb317a72b790c09.png"></article>]]></description>
             <link>https://thegrid.ai/csanad/akikek-es-megis-majom/index.html</link>
             <guid isPermaLink="false">f704943f-2f5d-40b0-8be8-0ad8dbe1bb56</guid>
-            <pubDate>Mon, 07 Mar 2016 09:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Szmokizós]]></title>
-            <description><![CDATA[<article><h1>Szmokizós</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fee3a4504072e38eaad8be6913a54130f02915c.png"></article>]]></description>
-            <link>https://thegrid.ai/csanad/szmokizos/index.html</link>
-            <guid isPermaLink="false">b2cbceb7-9ea6-4c9f-a87e-e12e6c4b9af4</guid>
             <pubDate>Mon, 07 Mar 2016 09:16:33 GMT</pubDate>
         </item>
     </channel>
