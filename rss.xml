@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 22:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 22:11:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.bukfurdo.hu/</link>
             <guid isPermaLink="false">30d04e8d-94be-4b7c-8d4d-60fcbec068e3</guid>
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Fényeink az űrből is látszanak, de itt fordítva van.</p>]]></description>
+            <link>https://thegrid.ai/csanad/12944e1f-8f72-49ea-b697-73155608e825/index.html</link>
+            <guid isPermaLink="false">12944e1f-8f72-49ea-b697-73155608e825</guid>
+            <pubDate>Mon, 07 Mar 2016 22:11:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/csanad/szmokizos/index.html</link>
             <guid isPermaLink="false">b2cbceb7-9ea6-4c9f-a87e-e12e6c4b9af4</guid>
             <pubDate>Mon, 07 Mar 2016 09:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/716029f1-582b-4952-9f66-54236c94a803.jpg">]]></description>
-            <link>https://thegrid.ai/csanad/ab32d388-5ed1-478e-adc7-9c491dbf9632/index.html</link>
-            <guid isPermaLink="false">ab32d388-5ed1-478e-adc7-9c491dbf9632</guid>
-            <pubDate>Sun, 06 Mar 2016 13:46:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
