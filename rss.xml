@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 09:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 21:53:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Négy]]></title>
+            <description><![CDATA[<article><h1>Négy</h1><p>Tizenöt Férfi és egy Wordpress blogmotor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58e9f96e7a80651868ba8d8731b558060a4fb257.png"></article>]]></description>
+            <link>http://444.hu/</link>
+            <guid isPermaLink="false">5bd340d8-728f-4b8f-9333-5197a065e9d0</guid>
+            <pubDate>Mon, 07 Mar 2016 21:53:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Forgó]]></title>
-            <description><![CDATA[<article><h1>Forgó</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1314054-0fe7-4b21-b203-671e5d377e37.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Forgó</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c72a0b339633a69222a2b31bd128febfeb5a3a2.png"></article>]]></description>
             <link>https://thegrid.ai/csanad/forgo/index.html</link>
             <guid isPermaLink="false">854b1d9e-90c0-4ec4-b49d-449493312502</guid>
             <pubDate>Mon, 07 Mar 2016 09:16:33 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/csanad/5504c36e-afef-4bdb-b076-65747c27ec8d/index.html</link>
             <guid isPermaLink="false">5504c36e-afef-4bdb-b076-65747c27ec8d</guid>
             <pubDate>Sun, 06 Mar 2016 09:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/067c04f7-83cd-48e6-ad9b-4f39f412d1bb.jpg">]]></description>
-            <link>https://thegrid.ai/csanad/facefc6e-f4d4-4828-bbfa-d62db7a483e8/index.html</link>
-            <guid isPermaLink="false">facefc6e-f4d4-4828-bbfa-d62db7a483e8</guid>
-            <pubDate>Sat, 05 Mar 2016 19:37:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
