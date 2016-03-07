@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 22:01:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 22:04:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.bukfurdo.hu/</link>
             <guid isPermaLink="false">30d04e8d-94be-4b7c-8d4d-60fcbec068e3</guid>
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f596206-59dd-4a09-95d8-bf228435e858.jpg">]]></description>
+            <link>https://thegrid.ai/csanad/eddf84dd-1412-4ac6-b71d-1a99156f3083/index.html</link>
+            <guid isPermaLink="false">eddf84dd-1412-4ac6-b71d-1a99156f3083</guid>
+            <pubDate>Mon, 07 Mar 2016 22:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/716029f1-582b-4952-9f66-54236c94a803.jpg">]]></description>
             <link>https://thegrid.ai/csanad/ab32d388-5ed1-478e-adc7-9c491dbf9632/index.html</link>
             <guid isPermaLink="false">ab32d388-5ed1-478e-adc7-9c491dbf9632</guid>
-            <pubDate>Sun, 06 Mar 2016 13:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4011e8ae-a8f8-4ad9-8549-a0eef46c983f.jpg">]]></description>
-            <link>https://thegrid.ai/csanad/bc69ff40-f832-48c6-abe3-95dc4f645e17/index.html</link>
-            <guid isPermaLink="false">bc69ff40-f832-48c6-abe3-95dc4f645e17</guid>
             <pubDate>Sun, 06 Mar 2016 13:46:57 GMT</pubDate>
         </item>
     </channel>
