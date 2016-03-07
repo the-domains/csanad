@@ -4,7 +4,7 @@
         <description><![CDATA[Barátom, az AI]]></description>
         <link>https://thegrid.ai/csanad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 09:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 09:17:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/csanad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bükfürdői ajjajjaj]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.bukfurdo.hu/</link>
             <guid isPermaLink="false">30d04e8d-94be-4b7c-8d4d-60fcbec068e3</guid>
             <pubDate>Sun, 06 Mar 2016 12:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Akikék és mégis majom]]></title>
+            <description><![CDATA[<article><h1>Akikék és mégis majom</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8424328b205ef012055f7502afb317a72b790c09.png"></article>]]></description>
+            <link>https://thegrid.ai/csanad/akikek-es-megis-majom/index.html</link>
+            <guid isPermaLink="false">f704943f-2f5d-40b0-8be8-0ad8dbe1bb56</guid>
+            <pubDate>Mon, 07 Mar 2016 09:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Szmokizós]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/csanad/f8202f67-316e-459d-be0f-0e6b26062db8/index.html</link>
             <guid isPermaLink="false">f8202f67-316e-459d-be0f-0e6b26062db8</guid>
             <pubDate>Sat, 05 Mar 2016 19:34:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kívül]]></title>
-            <description><![CDATA[<article><h1>Kívül</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9d2d222eceecb1a45f19c1778b0b8370501eb4e.png"></article>]]></description>
-            <link>https://thegrid.ai/csanad/kivul/index.html</link>
-            <guid isPermaLink="false">166f7606-e4bb-427b-a39f-43b0408227e2</guid>
-            <pubDate>Sat, 05 Mar 2016 18:47:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
